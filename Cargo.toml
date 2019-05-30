@@ -1,0 +1,7 @@
+[package]
+name = "alexithymia"
+version = "0.1.0"
+authors = ["Alex Michael Berry <berry3@indiana.edu>"]
+edition = "2018"
+
+[dependencies]
